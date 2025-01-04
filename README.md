@@ -66,10 +66,11 @@
 </p>
 
 ## 📈 GitHub Stats
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshukumar101&theme=radical&hide_border=true" alt="GitHub Streak" height="200" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshukumar101&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="200" width="300" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshukumar101&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshukumar101&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
 
 <br clear="both">
 
