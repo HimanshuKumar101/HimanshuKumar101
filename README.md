@@ -21,7 +21,6 @@
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshukumar101&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshukumar101&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
@@ -29,7 +28,7 @@
 
 <br clear="both">
 
-<div align="centre">
-  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmg5cXl6bHdlaWd0N3BmNDRoajZzdjA4bWdwczV6aWh6Y3prMnY3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif"  />
+<div align="items-center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmg5cXl6bHdlaWd0N3BmNDRoajZzdjA4bWdwczV6aWh6Y3prMnY3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif"  />
 </div>
 
