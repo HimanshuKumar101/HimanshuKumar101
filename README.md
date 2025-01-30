@@ -8,20 +8,7 @@
 - 📖 I’m currently learning **Advance Java, DSA**
 - 📫 How to reach me **himanshukumar.connect@gmail.com**
 - ⚡ Fun fact **I’m so funny, people feel more connected just being around me.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/himanshureveal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshureveal" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/himanshukumar21" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshukumar21" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/himanshureveal/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himanshureveal" height="30" width="40" />
-  </a>
-</p>
-
+  
 <h2 align="center">👾 Languages-Frameworks-Tools 👾</h2>
 <br/>
 <div align="center">
