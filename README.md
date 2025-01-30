@@ -21,8 +21,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshukumar101&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshukumar101&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Himanshu101&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=333 src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshukumar101&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 
