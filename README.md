@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=himanshukumar101&label=Profile%20views&color=0e75b6&style=flat" alt="himanshukumar101" />
 </p>
 
-- 📖 I’m currently learning **Advance Java, DSA**
+- 📖 I’m currently learning **DevOps**
 - 📫 How to reach me **himanshukumar.connect@gmail.com**
 - ⚡ Fun fact **I’m so funny, people feel more connected just being around me.**
   
