@@ -12,8 +12,8 @@
 <h2 align="center">👾 Languages-Frameworks-Tools 👾</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,tailwind,javascript,react,nodejs,express,mongodb,"/>
-    <img src="https://skillicons.dev/icons?i=java,mysql,postman,docker,kubernetes,aws,linux,"/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,express,mongodb,gitlab"/>
+    <img src="https://skillicons.dev/icons?i=java,python,mysql,postman,docker,kubernetes,aws,linux,jenkins"/>
   <br>
 </div>
 
